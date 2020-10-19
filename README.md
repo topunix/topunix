@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topunix&label=Profile%20views&color=0e75b6&style=flat" alt="topunix" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topunix" alt="topunix" /></a> </p>
-
 - 🔭 I’m currently working on **full-stack apps, curriculum, edtech, coding challenges**
 
 - 🌱 I’m currently learning **Canvas LMS, Auth0, Heroku**
