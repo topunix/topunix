@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **vim, Perl, Python, POSIX, Auth0, Heroku, edtech, adtech, algorithms**
 
-- 📫 How to reach me **topunixguy@gmail.com**
+- 📫 How to reach me **topunixguy@gmail.com** (available for work)
 
 
 <h3 align="left">Languages and Tools:</h3>
