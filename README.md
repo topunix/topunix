@@ -14,7 +14,3 @@
 ![](https://user-images.githubusercontent.com/24255237/89557616-4fc98e00-d7d0-11ea-82e8-e8b6ed91930a.png)
 
 <small>- image from [a comment by @nixsee](https://github.com/foambubble/rfcs/pull/5#issuecomment-670036447)</small>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topunix&show_icons=true&locale=en&layout=compact" alt="topunix" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topunix&show_icons=true&locale=en" alt="topunix" /></p>
