@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi there 👋 Welcome to my page!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=topunix&label=Profile%20views&color=0e75b6&style=flat" alt="topunix" /> </p>
-
 - 🔭 I’m currently working on **full-stack apps, edtech, coding challenges**
 
 - 🌱 I’m currently learning **Canvas LMS, Auth0, Heroku**
