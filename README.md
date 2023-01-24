@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **full-stack apps, edtech, coding challenges**
 
-- 🌱 I’m currently learning **Canvas LMS, Auth0, Heroku**
-
-- 💬 Ask me about **vim, Perl, Python, POSIX, Auth0, Heroku, edtech, adtech, algorithms**
-
 ---
 
 ![](https://user-images.githubusercontent.com/24255237/89557616-4fc98e00-d7d0-11ea-82e8-e8b6ed91930a.png)
