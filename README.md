@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Welcome to my page, here's some of my experience 👨‍💻</h1>
+<h1 align="center">My experience 👨‍💻</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
