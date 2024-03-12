@@ -1,5 +1,5 @@
 
-<h1 align="center">Tech experience 👨‍💻</h1>
+<h1 align="left">Tech experience 👨‍💻</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
