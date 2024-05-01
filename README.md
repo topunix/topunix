@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Mike 👋
 
 - 🌎 I’m a web developer from the United States
 - 😄 Pronouns: he/him
