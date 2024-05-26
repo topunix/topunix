@@ -1,7 +1,7 @@
 ### Hi there, I'm Mike 👋
 
 - 🌎 I’m a web developer from the United States
-- 😄 Pronouns: he/him
+- ❤ Contributing to Open Source.
 - 🐍 I specialize in Python and Django, but my programming experience extends across multiple languages and tools
 - 🌱 I’m currently learning Solidity
 - 💬 Ask me about optimizing web app performance for scalability
