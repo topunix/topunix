@@ -13,4 +13,4 @@
 - [Cracking the Code: Mastering Algorithmic Problem-Solving for Interviews](https://dev.to/topunix/cracking-the-code-mastering-algorithmic-problem-solving-for-interviews-17n)
 
 ### Contact 📫
-Let's collaborate! Reach out via email at mike.topunix@gmail.com 💼💻
+Let's collaborate! Reach out via email at mike@topunix.net 💼💻
