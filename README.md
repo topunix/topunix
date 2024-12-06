@@ -2,7 +2,7 @@
 
 - 🌎 I’m a web developer from the United States
 - ❤ Contributing to Open Source.
-- 🐍 I specialize in Python and Django, but my programming experience extends across multiple languages and tools
+- 🐍 My programming experience extends across multiple languages and tools (Python, Django, Perl, JavaScript, React...)
 - ✍ I write technical blogs. You can visit my blog site at [DEV](https://dev.to/topunix).
 - 💬 Ask me about optimizing web app performance for scalability
 - ⚡ Fun fact: Before using Git, I worked with various version control systems including Mercurial, SVN, CVS, and Perforce
