@@ -1,6 +1,6 @@
 ### Hi there, I'm Mike 👋
 
-- 🌎 I’m a web developer from the United States
+- 🌎 I’m a software engineer from the United States
 - ❤ Contributing to Open Source.
 - 🐍 My programming experience extends across multiple languages and tools (Python, Django, Perl, JavaScript, React...)
 - ✍ I write technical blogs. You can visit my blog site at [DEV](https://dev.to/topunix).
