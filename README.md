@@ -4,7 +4,7 @@
 - ❤ Contributing to Open Source.
 - 🐍 My programming experience extends across multiple languages and tools (Python, Django, Perl, JavaScript, React...)
 - ✍ I write technical blogs. You can visit my blog site at [DEV](https://dev.to/topunix).
-- 💬 Ask me about optimizing web app performance for scalability
+- 💬 Ask me about optimizing web app performance for scalability—or about streaming algorithms, one of my latest interests
 - ⚡ Fun fact: Before using Git, I worked with various version control systems including Mercurial, SVN, CVS, and Perforce
 ### Blog posts 📰
 - [AWS Lambda and Celery for Asynchronous Tasks in Django](https://dev.to/topunix/harnessing-aws-lambda-and-celery-for-scalable-asynchronous-tasks-with-django-h97)
