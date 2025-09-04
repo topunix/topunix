@@ -7,6 +7,7 @@
 - 💬 Ask me about optimizing web app performance for scalability—or about streaming algorithms, one of my latest interests
 - ⚡ Fun fact: Before using Git, I worked with various version control systems including Mercurial, SVN, CVS, and Perforce
 ### Blog posts 📰
+- [Using Docker in China: Practical Workarounds for Developers](https://dev.to/topunix/using-docker-in-china-practical-workarounds-for-developers-26lp)
 - [AWS Lambda and Celery for Asynchronous Tasks in Django](https://dev.to/topunix/harnessing-aws-lambda-and-celery-for-scalable-asynchronous-tasks-with-django-h97)
 - [Effortless Django & React: Introducing Reactivated](https://dev.to/topunix/effortless-django-react-introducing-reactivated-218f)
 - [Building a Fort: Django Security Best Practices](https://dev.to/topunix/building-a-fort-django-security-best-practices-4fa4)
