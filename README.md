@@ -16,4 +16,4 @@ I write at [DEV](https://dev.to/topunix) about Django security, async task
 processing, and interview preparation.
 
 ### Contact
-mike@topunix.net · [topunix.net](https://topunix.net) 
+mike@topunix.net 
